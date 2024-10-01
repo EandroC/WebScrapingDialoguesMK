@@ -1,4 +1,5 @@
 # WebScrapingDialoguesMK
+______________________
 Este projeto realiza a extração e análise de diálogos do site Mortal Kombat Warehouse. Utilizando Python e bibliotecas como Selenium e Pandas, o projeto coleta diálogos, divide-os em partes (locutor, fala, respondente e resposta), e organiza os dados em um DataFrame.
 
 ## Funcionalidades
